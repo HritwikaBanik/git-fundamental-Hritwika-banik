@@ -77,7 +77,7 @@
 | DAY27| 92% |48 wpm
 | DAY28| 92% |48 wpm
 | DAY29| 92% |48 wpm
-| DAY30| 92% |55 wpm
+| DAY30| 92% |56 wpm
 
 
 
