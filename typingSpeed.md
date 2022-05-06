@@ -70,7 +70,7 @@
 | DAY20| 92% |47 wpm
 | DAY21| 92% |48 wpm
 | DAY22| 92% |47 wpm
-| DAY23| 92% |48 wpm
+| DAY23| 92% |45 wpm
 | DAY24| 92% |48 wpm
 | DAY25| 92% |48 wpm
 | DAY26| 92% |48 wpm
